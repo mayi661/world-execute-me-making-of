@@ -1,0 +1,376 @@
+{
+  "f_bust": {
+    "alpha": true,
+    "size": [
+      1086,
+      1448
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "flower": [
+      797,
+      443,
+      60
+    ],
+    "chin": [
+      561,
+      758
+    ],
+    "brooch": [
+      543,
+      1086,
+      36
+    ],
+    "face": [
+      386,
+      454,
+      329,
+      306
+    ],
+    "figure": [
+      0,
+      79,
+      1086,
+      1369
+    ],
+    "crops": {
+      "avatar": [
+        164,
+        59,
+        834,
+        834
+      ],
+      "bust": [
+        36,
+        62,
+        1014,
+        1352
+      ]
+    },
+    "notes": "Front-facing base portrait with two swept horns, a rosette at the viewer's right, high collar and one raised hand. The face is unmarked. The chest meets the bottom edge."
+  },
+  "f_profile": {
+    "alpha": true,
+    "size": [
+      1086,
+      1448
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "flower": [
+      521,
+      462,
+      67
+    ],
+    "chin": [
+      357,
+      855
+    ],
+    "nose": [
+      216,
+      758
+    ],
+    "brooch": [
+      336,
+      1270,
+      28
+    ],
+    "figure": [
+      51,
+      0,
+      983,
+      1448
+    ],
+    "crops": {
+      "avatar": [
+        61,
+        68,
+        850,
+        850
+      ]
+    },
+    "notes": "Bowed left-facing profile with a blank face. The front lock frames the nose and chin; the braided rosette sits high at the near temple. The chest meets the bottom edge."
+  },
+  "f_reach": {
+    "alpha": true,
+    "size": [
+      943,
+      1449
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "flower": [
+      639,
+      341,
+      54
+    ],
+    "eye": [
+      480,
+      473
+    ],
+    "mouth": [
+      477,
+      546
+    ],
+    "chin": [
+      494,
+      605
+    ],
+    "palm": [
+      186,
+      1201
+    ],
+    "fingertip": [
+      0,
+      1238
+    ],
+    "hand": [
+      0,
+      1109,
+      261,
+      186
+    ],
+    "chestHand": [
+      642,
+      895
+    ],
+    "figure": [
+      0,
+      2,
+      943,
+      1447
+    ],
+    "crops": {
+      "avatar": [
+        223,
+        0,
+        680,
+        680
+      ],
+      "band": [
+        0,
+        1032,
+        943,
+        417
+      ]
+    },
+    "notes": "All coordinates are in native PNG pixels. The right hand reaches toward the lower left, palm up, with the index fingertip nearest the edge. The other hand rests against the chest. Face landmarks indicate positions on the blank face. The lower body meets the bottom edge."
+  },
+  "f_eye": {
+    "alpha": true,
+    "size": [
+      2174,
+      1449
+    ],
+    "cut": [
+      "top",
+      "bottom",
+      "left",
+      "right"
+    ],
+    "flower": [
+      1962,
+      378,
+      259
+    ],
+    "eye": [
+      943,
+      977
+    ],
+    "figure": [
+      0,
+      0,
+      2174,
+      1449
+    ],
+    "crops": {},
+    "notes": "Full-bleed eye strip in native image pixels. One open eye is defined by its lid and lashes. Its opening is blank; the forehead and cheeks extend beyond the crop."
+  },
+  "reply_eye": {
+    "size": [1536, 1024],
+    "eye": [847, 714]
+  },
+  "boy_bust": {
+    "alpha": true,
+    "size": [
+      1086,
+      1448
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "register": [
+      0.89,
+      60,
+      -18
+    ],
+    "chin": [
+      543,
+      755
+    ],
+    "brooch": [
+      547,
+      1056,
+      31
+    ],
+    "face": [
+      371,
+      411,
+      332,
+      348
+    ],
+    "figure": [
+      25,
+      0,
+      1035,
+      1448
+    ],
+    "crops": {},
+    "notes": "Front-facing boy with two short horns, short hair, bare temples, a high collar and a blank face. The shoulders and chest meet the bottom edge."
+  },
+  "man_bust": {
+    "alpha": true,
+    "size": [
+      1086,
+      1448
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "register": [
+      0.873,
+      81,
+      -4
+    ],
+    "flower": [
+      817,
+      460,
+      51
+    ],
+    "chin": [
+      543,
+      803
+    ],
+    "brooch": [
+      545,
+      1120,
+      34
+    ],
+    "figure": [
+      0,
+      44,
+      1086,
+      1404
+    ],
+    "crops": {},
+    "notes": "Faceless adult with two swept horns and long hair. The rosette sits at the viewer's right; the high collar closes over the chest. The chest meets the bottom edge."
+  },
+  "cat_bust": {
+    "alpha": true,
+    "size": [
+      1086,
+      1448
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "register": [
+      1.0,
+      -28,
+      -49
+    ],
+    "flower": [
+      827,
+      392,
+      62
+    ],
+    "chin": [
+      539,
+      730
+    ],
+    "brooch": [
+      535,
+      1058,
+      24
+    ],
+    "face": [
+      372,
+      434,
+      337,
+      299
+    ],
+    "ears": [
+      [
+        180,
+        124,
+        224,
+        251
+      ],
+      [
+        676,
+        122,
+        222,
+        244
+      ]
+    ],
+    "figure": [
+      0,
+      46,
+      1085,
+      1402
+    ],
+    "crops": {},
+    "notes": "Front-facing blank face with three fringe sections and two pointed cat ears. The rosette sits at the viewer's right; the chest meets the bottom edge."
+  },
+  "cat_paws": {
+    "alpha": true,
+    "size": [
+      1086,
+      1448
+    ],
+    "cut": [
+      "bottom"
+    ],
+    "flower": [
+      804,
+      411,
+      53
+    ],
+    "brooch": [
+      541,
+      1051,
+      31
+    ],
+    "eyes": [
+      [
+        642,
+        553
+      ],
+      [
+        441,
+        567
+      ]
+    ],
+    "paws": [
+      [
+        309,
+        947
+      ],
+      [
+        741,
+        994
+      ]
+    ],
+    "figure": [
+      0,
+      0,
+      1086,
+      1448
+    ],
+    "crops": {},
+    "notes": "Two curved horns and both open hands raised at chest level. The eyes are placement anchors for the tear effect on the blank face. The chest meets the bottom edge."
+  }
+}

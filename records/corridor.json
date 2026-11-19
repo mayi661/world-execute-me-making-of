@@ -1,0 +1,13 @@
+{
+  "before": 10724,
+  "after": 2174,
+  "outside_exact": 12898,
+  "frames": 13014,
+  "cut": [
+    10724,
+    10840
+  ],
+  "audio": "SHA256=720a5eda597defbe640c4708290f7f431adfc190e99ec1855afc1bb5138f3441",
+  "last72_unique": 1,
+  "bytes": 525632622
+}

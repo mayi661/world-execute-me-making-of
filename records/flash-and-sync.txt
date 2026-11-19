@@ -1,0 +1,18 @@
+
+> world-execute-me-lyric-mv@4.0.0 check
+> node tools/check_export.mjs out/world_execute_me_signal_fold_4k60.mp4
+
+[flash] world_execute_me_signal_fold_4k60.mp4: 13014 frames @ 60 fps (216.9 s), first frame at song time -5.000 s
+  general: 25 frames with a large-area luminance transition; worst 1 s window = 2.0 flashes (window starting 86.73 s song time (file 91.73 s)) -> PASS (limit 3)
+  red:     0 frames with a large-area saturated-red transition; worst 1 s window = 0.0 flashes (window starting -5.00 s song time (file 0.00 s)) -> PASS (limit 3)
+  hard frame changes (mean abs diff > 0.12): 46; busiest second has 7 (from 177.02 s song time (file 182.02 s))
+  single-frame pops: none
+[0] file starts at song time -5.000 s
+[1] audio in mp4 vs source wav: lag = +0.00 ms  (decoded 216.921 s)
+[2] video: 13014 frames @ 60 fps (216.900 s); brightness jump vs cue time
+      power-on (first transient)   cue   0.059s (song) -> expected frame 304, brightest rise at frame 304 (+0 ms)
+      drop (bar 8)                 cue  14.963s (song) -> expected frame 1198, brightest rise at frame 1198 (+0 ms)
+      enter (bar 9)                cue  16.809s (song) -> expected frame 1309, brightest rise at frame 1309 (+0 ms)
+[3] LRC vs vocal-band onsets: best lag = +70 ms (peak z=2.3); >0 means singing starts AFTER the LRC time
+      per-line nearest onset: median +27 ms, IQR -64..+75 ms
+      keyword lines vs beat grid: median +47 ms, within +-60 ms: 29% of 49
