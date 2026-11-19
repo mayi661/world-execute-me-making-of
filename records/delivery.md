@@ -22,4 +22,4 @@
 
 制作档名 `preview_signal_fold_corridor_1080p60.mp4`。2:58.733 至 3:00.667 重做了连续推进，和硬切稿相比只替换 116 帧。其余 12,898 帧逐像素相同，AAC 码流相同。4K 交付前，以这份审定片逐帧缩图核对。可在[窗内走廊对照图](../images/corridor-comparison.jpg)里从上排硬切看到下排推近，也可查阅[接镜数据](corridor.json)和[播放器实测](playback.json)。
 
-本次 GitHub 发布收录制作资料、成片抽帧与验收记录。音频与完整带声母片保存在制作工程。
+最终版带声 MP4 可从 [v1.0.0 的 Release](https://github.com/mayi661/world-execute-me-making-of/releases/tag/v1.0.0) 下载。SHA-256 为 `97f98ee3de631d626f51a67689ea37a7fbb4ac846ce58c796799b23eb9d148fa`。

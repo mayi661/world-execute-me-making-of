@@ -1,5 +1,7 @@
 # 《world.execute(me);》制作手记与提示词
 
+**[下载最终版 4K60 带声成片（MP4，1.96 GB）](https://github.com/mayi661/world-execute-me-making-of/releases/download/v1.0.0/world_execute_me_signal_fold_4k60.mp4)** · [版本说明与 SHA-256 校验码](https://github.com/mayi661/world-execute-me-making-of/releases/tag/v1.0.0)
+
 ![紫色窗廊前，长发双角的她低头望着空回复栏](images/cover-4k.jpg)
 
 这支 Mili 同人歌词 MV 把两次副歌拍在同一只手上。第一次，用户的光标落进她的掌纹；最后一次，她发出的波形在空接点外等了半拍，又折回掌心。这里记录了从这两个动作，到播放器 2:59 穿过人物窗口，再到原生 4K 定稿的制作过程。
